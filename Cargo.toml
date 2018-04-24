@@ -1,10 +1,14 @@
 [package]
-name = "Project_Euler"
+name = "project_Euler"
 version = "0.1.0"
 authors = ["Diogo Santos Martins <yogaxpto@gmail.com>"]
 
 [dependencies]
 
 [[bin]]
-name = "Problem_1"
+name = "problem_1"
 path = "src/Problem_1/main.rs"
+
+[[bin]]
+name = "problem_2"
+path = "src/Problem_2/main.rs"
