@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Diogo Santos Martins <yogaxpto@gmail.com>"]
 
 [dependencies]
+primal = "0.2"
 
 [[bin]]
 name = "problem_1"
@@ -28,3 +29,7 @@ path = "src/Problem_5/main.rs"
 [[bin]]
 name = "problem_6"
 path = "src/Problem_6/main.rs"
+
+[[bin]]
+name = "problem_7"
+path = "src/Problem_7/main.rs"
