@@ -42,3 +42,7 @@ path = "src/Problem_8/main.rs"
 name = "problem_9"
 path = "src/Problem_9/main.rs"
 
+[[bin]]
+name = "problem_10"
+path = "src/Problem_10/main.rs"
+
