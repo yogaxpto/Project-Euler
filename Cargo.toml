@@ -8,41 +8,44 @@ primal = "0.2"
 
 [[bin]]
 name = "problem_1"
-path = "src/Problem_1/main.rs"
+path = "src/Problem_01/main.rs"
 
 [[bin]]
 name = "problem_2"
-path = "src/Problem_2/main.rs"
+path = "src/Problem_02/main.rs"
 
 [[bin]]
 name = "problem_3"
-path = "src/Problem_3/main.rs"
+path = "src/Problem_03/main.rs"
 
 [[bin]]
 name = "problem_4"
-path = "src/Problem_4/main.rs"
+path = "src/Problem_04/main.rs"
 
 [[bin]]
 name = "problem_5"
-path = "src/Problem_5/main.rs"
+path = "src/Problem_05/main.rs"
 
 [[bin]]
 name = "problem_6"
-path = "src/Problem_6/main.rs"
+path = "src/Problem_06/main.rs"
 
 [[bin]]
 name = "problem_7"
-path = "src/Problem_7/main.rs"
+path = "src/Problem_07/main.rs"
 
 [[bin]]
 name = "problem_8"
-path = "src/Problem_8/main.rs"
+path = "src/Problem_08/main.rs"
 
 [[bin]]
 name = "problem_9"
-path = "src/Problem_9/main.rs"
+path = "src/Problem_09/main.rs"
 
 [[bin]]
 name = "problem_10"
 path = "src/Problem_10/main.rs"
 
+[[bin]]
+name = "problem_10"
+path = "src/Problem_10/main.rs"
