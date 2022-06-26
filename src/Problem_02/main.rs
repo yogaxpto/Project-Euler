@@ -3,7 +3,7 @@ fn main() {
     let mut result: u64 = fib(1);
     let mut counter: u32 = 2;
     while result < 4 * 10usize.pow(6) as u64 {
-        result= fib(counter);
+        result = fib(counter);
         if result % 2 == 0 {
             total += result;
         }
